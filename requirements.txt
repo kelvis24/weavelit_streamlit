@@ -1,0 +1,5 @@
+streamlit
+PyPDF2
+pandas
+weaviate-client
+python-dotenv
